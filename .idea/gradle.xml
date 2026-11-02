@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ex01" />
+            <option value="$PROJECT_DIR$/ex02" />
+            <option value="$PROJECT_DIR$/ex03" />
+            <option value="$PROJECT_DIR$/ex04" />
+            <option value="$PROJECT_DIR$/ex05" />
+            <option value="$PROJECT_DIR$/ex06" />
+            <option value="$PROJECT_DIR$/ex07" />
+            <option value="$PROJECT_DIR$/ex08" />
+            <option value="$PROJECT_DIR$/ex09" />
+            <option value="$PROJECT_DIR$/ex10" />
+            <option value="$PROJECT_DIR$/ex11" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
